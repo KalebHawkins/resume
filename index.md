@@ -1,6 +1,6 @@
 ## My Resume
 
-View my resume at your convienence. Feel free to select the one that fits your taste.
+View my resume at your convenience. Feel free to select the one that fits your taste.
 
 * [Blockish Resume](./blockish.html)
 * [Modern Resume](./modern.html)
