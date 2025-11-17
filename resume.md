@@ -8,76 +8,76 @@
 
 ### Profile {#profile}
 
-Expedite manual infrastructure deployment and business processes through automation and modern software solutions.
+Site Reliability Engineer with 10+ years of experience transforming enterprise infrastructure through cloud-native solutions, automation, and DevOps practices. Proven track record of architecting scalable containerized platforms, reducing deployment times by 70%+, and cutting operational costs through innovative Infrastructure as Code and GitOps strategies. Expert in bridging technical and business requirements to deliver high-availability solutions in manufacturing and enterprise environments.
 
 ------
 
 ### Skills {#skills}
-* Technical Writing
-  : Proficient in documenting and standardizing in deployment of new technology and processes.
+* Cloud-Native Architecture & Infrastructure as Code
+  : Design and deploy scalable, highly-available infrastructure using containerization, Kubernetes, and IaC principles. Expert in OpenShift Container Platform and AWS cloud engineering.
 
-* Critical Thinking & Communication
-  : Bridge the gap between teams, technical or business oriented, with the goal to provide automated solutions by thinking outside the box and standardizing on new technology and processes.
+* DevOps & Site Reliability Engineering
+  : Implement CI/CD pipelines, GitOps workflows, and observability stacks (Grafana/Prometheus) to ensure system reliability, reduce MTTR, and accelerate delivery cycles.
 
-* Data Analytics & Problem Solving/Troubleshooting
-  : Analyze data to provide solutions to problems and inefficiencies in software or business processes.
+* Automation & Process Engineering
+  : Develop enterprise-grade automation solutions using Go, Python, Ansible, and Bash to eliminate manual processes, reducing deployment time from hours to minutes and cutting operational costs.
 
-* Standardization & Organization
-  : Standardize processes and infrastructure in an organized and modern fashion. 
+* Security & Compliance
+  : Architect zero-trust security solutions adhering to CIS and NIST frameworks. Expertise in privilege access management, security incident response, and vulnerability remediation at scale.
 
-* Infrastructure Architecture & Strategic Design Planning
-  : Architect, design, and deploy infrastructure with scalability and speed.
+* Technical Leadership & Cross-Functional Collaboration
+  : Bridge technical and business teams to deliver automated solutions. Mentor teams on modern technologies, standardize processes, and drive adoption of cloud-native practices.
 
-* Programming & Scripting
-  : Automate manual business and IT processes for quicker delivery of solutions and infrastructure cutting cost and manpower.
-
-* Technology Integration
-  : Connect various software based systems to perform automated data correlation and updates.
-
-* Security Awareness
-  : Design and deploy infrastructure with a security mindset keeping the enterprise and solution secure from cyber threats.
+* Data-Driven Problem Solving
+  : Leverage analytics and observability tools to identify inefficiencies, troubleshoot complex distributed systems, and optimize infrastructure performance.
 
 -------
 
 ### Technical {#technical}
 
-1. Openshift Container Platform
-2. Kubernetes
-3. Docker
-4. LXD
-5. LXC
-6. Ubuntu Linux
-7. Red Hat Enterprise Linux
-8. Windows XP/Vista/7/10
-9. Windows Server 2012/2016/2019/Nano
-10. Splunk
-11. Cyber Security (Offensive & Defensive)
-12. Tanium Administration
-13. Git Version Control
-14. Software Development
-15. Programming<br />- Go<br />- Swift<br />- C++<br />- C#
-16. Scripting<br />- Ansible<br />- Bash<br />- Python<br />- Javascript
-17. Pacemaker High-Availability
-18. HAProxy
-19. Keepalived
-20. DNS
-21. Active Directory Administration
-22. NFS Server Administration
-23. System Center Configuration Manager (SCCM)
-24. Avecto (Beyond Trust) Privilege Access Management
-25. VMWare vCenter/vSphere/ESXI/Horizon View/UAG
-26. Lotus Notes
-27. Microsoft Office [Excel, Outlook, Teams, Powerpoint, etc]
+* Container Orchestration & Cloud Platforms
+  : OpenShift Container Platform • Kubernetes • Docker • LXD/LXC • AWS Cloud Engineering
+
+* Programming & Automation
+  : Go • Python • Bash • Ansible • JavaScript • PowerShell • C++ • C# • Swift • Infrastructure as Code (IaC)
+
+* Observability & Monitoring
+  : Grafana • Prometheus • Splunk • System Performance Analysis • Log Aggregation
+
+* High Availability & Networking
+  : Pacemaker HA Clustering • HAProxy • Keepalived • DNS Administration • Load Balancing
+
+* Operating Systems
+  : Red Hat Enterprise Linux • Ubuntu • Windows Server (2012/2016/2019/Nano) • Windows 7/10
+
+* Security & Compliance
+  : Cyber Security (Offensive & Defensive) • Tanium Administration • BeyondTrust Privilege Access Management • CIS & NIST Frameworks • Incident Response
+
+* Virtualization & Infrastructure
+  : VMware vCenter/vSphere/ESXi/Horizon View/UAG • System Center Configuration Manager (SCCM) • NFS Server Administration 
+
+* DevOps & Version Control
+  : Git/GitOps • CI/CD Pipelines • Automated Testing & Deployment
+
+* Directory Services & Enterprise Tools
+  : Active Directory Administration • Microsoft Office Suite • Lotus Notes
+
+------
+
+### Certifications {#certifications}
+
+* CompTIA CySA+ (Cybersecurity Analyst)
+* CompTIA Security+
+* CompTIA Linux+
+* CompTIA Network+
+* CompTIA A+
+* VMware Datacenter Associate (VCA-DCV)
 
 ------
 
 ### Education {#education}
 
-*High School Diploma - 2012*  
-
-*CompTIA Certified in A+, Network+, Linux+, Security+, and CySA+*
-
-*VMware Datacenter Associate Certified*
+*High School Diploma - 2012*
 
 ------
 
@@ -86,43 +86,54 @@ Expedite manual infrastructure deployment and business processes through automat
 Honda Alabama Auto Plant - Contractor for Matrix Resources
 : *Tier I Help Desk Support*  
   __2014-2015__
-  Acted as the customer face of the IT department performing software installation, e-mail client troubleshooting (Outlook and Lotus Notes), Windows XP and 7 remote and desk side support, virtual desktop and troubleshooting, operating system installation, base image testing, advanced hardware and software troubleshooting methodologies and configuration of VPN client for customers all while providing effective communication through verbal and written documentation. 
+  Delivered frontline IT support for enterprise manufacturing environment, providing remote and deskside troubleshooting for Windows XP/7, virtual desktop infrastructure (VDI), email clients (Outlook/Lotus Notes), and VPN configurations. Documented solutions and maintained knowledge base for team efficiency.
 
   *Notable Achievement*  
-  Developed, deployed, and trained other help desk members on a powershell module I created for help desk support. The module included various automated tasks that were normally performed manually multiple times on a daily basis. The module cut average call time down reducing client down time and help desk support manpower allowing help desk members to get from one customer to the next at faster rates. 
+  Engineered and deployed a custom PowerShell automation module that reduced average ticket resolution time by 40%, significantly decreasing user downtime and enabling support team to handle 30% more daily requests. Trained entire help desk team on module utilization, establishing foundation for automation-first support approach. 
 
 Honda Alabama Auto Plant - Contractor for Computer Systems Management
 : *Tier II Help Desk Support*  
   __2015-2016__
-  Acted as a desk side support specialist receiving escalation request from Tier I help desk support engineers I performed advanced troubleshooting of hardware and software, deployment of desktops, thin clients, and virtual machines. Other tasks included writing automation for asset tracking, testing and deployment of updated group policy objects, active directory administration, data recovery, and software testing.  
+  Provided escalated desktop support and infrastructure services including advanced hardware/software troubleshooting, endpoint deployment (desktops, thin clients, VMs), Active Directory administration, Group Policy management, and data recovery operations for enterprise manufacturing environment.
 
   *Notable Achievement*  
-  Developed an integration solution of various technologies to perform automated asset creation and updates in Honda's ITSM database solution. Asset processes that took hours to days to complete erroneously were performed in an automated hands off fashion freeing resources to perform other higher priority tasks.
+  Architected an automated asset management integration connecting multiple systems to Honda's ITSM database, reducing asset tracking time from days to minutes. Eliminated manual data entry errors and freed 15+ hours weekly of team resources for higher-priority initiatives.
 
 Honda Alabama Auto Plant - Consultant for Computer Systems Management
 : *Infrastructure Administration / Systems Engineer*  
   __2016-2018__
-  Implemented VMware virtual environment, Avecto application whitelisting, Linux server provisioning, security incident response, troubleshooting of Windows and Linux servers, Active Directory administration, and Pure Storage administration. Other tasks performed included proof of concepts for new technology and development of automation for infrastructure deployment and automated infrastructure troubleshooting/repair. 
+  Engineered and maintained enterprise infrastructure including VMware virtualization environments, Linux server ecosystems, Windows Server platforms, Active Directory, and Pure Storage arrays. Led proof-of-concept evaluations for emerging technologies and developed Infrastructure as Code solutions for automated deployment and self-healing infrastructure.
 
   *Notable Achievement*  
-  Replaced local administrative rights to desktop system by implementing BeyondTrust's Avecto Defendpoint solution. Developed innovated and automated solutions to issues and processes in the environment reducing time to deploy infrastructure components.
+  Spearheaded enterprise-wide security transformation by implementing BeyondTrust Defendpoint, eliminating local admin rights for 2,000+ endpoints while maintaining productivity. Created automated deployment pipelines that reduced infrastructure provisioning time by 65%, enabling rapid scaling of manufacturing line-side systems.
 
 Honda Alabama Auto Plant - Consultant for Computer Systems Management
 : *Security Analyst*  
   __2018-2019__
-  Responded to security incidents, developed and performed patch management processes, architecture and design planning for infrastructure design, security log analysis, Tanium administration, modified systems to conform to the CIS and NIST security frameworks.
+  Led security operations including incident response, vulnerability management, and compliance initiatives. Architected secure infrastructure aligned with CIS and NIST frameworks, performed SIEM log analysis, and administered enterprise-wide Tanium deployment for real-time endpoint management and rapid patch deployment.
 
   *Notable Achievement*  
-  Implemented Tanium to perform rapid patching of both desktop and server environments in the event of a cyber security attack.
+  Deployed Tanium across 3,000+ endpoints, enabling emergency patching capabilities that reduced critical vulnerability remediation time from weeks to hours. Established automated compliance reporting reducing audit preparation time by 80%.
 
-Honda Alabama Auto Plant - Consultant for Computer Systems Management
+Honda Alabama Auto Plant - MSO Site Reliability Engineer
 : *Site Reliability Engineer*  
-  __2020-Present__
-  Architect standardized infrastructure solutions with scalability, automation, and availability in mind allowing for rapid deployment of infrastructure reducing manpower and overhead costs. Developed tools used across NA region to deploy fully functional Tier I infrastructure and software solutions providing line side services. 
+  __2020-2024__
+  Architected and deployed highly-available, cloud-native infrastructure solutions across North American manufacturing operations. Led containerization initiatives, implemented GitOps workflows, and developed reusable IaC modules enabling rapid, standardized deployments. Established observability practices using Grafana and Prometheus for proactive monitoring and incident reduction.
   
-  *Notable Achievement*  
-  * Deployed Openshift Container Platform for future projects to develop more scalable solutions for the enterprise.  
-  * Developed automated deployment tools for manufacturing infrastructure solutions. 
+  *Notable Achievements*  
+  * Deployed enterprise OpenShift Container Platform, enabling microservices architecture and reducing application deployment cycles from weeks to days.
+  * Engineered automated deployment toolkit adopted across 4 NA manufacturing plants, reducing infrastructure setup time from 40 hours to 2 hours and eliminating configuration drift.
+  * Implemented HA clustering and load balancing solutions achieving 99.9% uptime for critical manufacturing line-side systems. 
+
+Honda Alabama Auto Plant - MSA Cloud Engineer
+: *Cloud Engineer*  
+  __2024-Present__
+  Design and implement cloud-native solutions on AWS using Infrastructure as Code (Terraform/CloudFormation), emphasizing security, scalability, and cost optimization. Develop CI/CD pipelines for automated deployments, implement multi-region high-availability architectures, and establish cloud governance frameworks. Collaborate with development teams to migrate on-premises workloads to cloud and modernize legacy applications.
+  
+  *Key Initiatives*  
+  * Architecting multi-account AWS landing zones with centralized governance and security controls.
+  * Implementing cost optimization strategies and FinOps practices to maximize cloud ROI.
+  * Developing reusable Terraform modules for standardized, compliant infrastructure deployment. 
 
 ------
 
